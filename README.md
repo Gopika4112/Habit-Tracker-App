@@ -11,3 +11,6 @@ A simple Habit Tracker built using React Native and Expo.
 - React Native
 - Expo
 - TypeScript
+
+## App Preview
+![Habit Tracker App Screenshot](assets/images/1000111102.png)
